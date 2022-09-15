@@ -22,3 +22,19 @@ I can also be found at:
 <a href="https://www.linkedin.com/in/dr-johar-m-ashfaque-minstp-aatqb-%F0%9F%93%8A%F0%9F%A7%AE%F0%9F%93%9A-a924a469/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black" alt="jash" /></a>
 
 <a href="https://www.instagram.com/jau1990/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&labelColor=black" alt="jash" /></a>
+
+
+![](https://komarev.com/ghpvc/?username=ukveteran)
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ukveteran&" alt="ajauntor" /></p>
+
+<p align="left">
+  <a href="https://github.com/UKVeteran?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
+
+
+
+<p align="left"> <a href="https://twitter.com/jau1990" target="blank"><img src="https://img.shields.io/twitter/follow/jau1990?logo=twitter&style=for-the-badge" alt="jau1990" /></a> </p>
+
+</p>
