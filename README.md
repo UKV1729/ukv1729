@@ -26,3 +26,7 @@ I can also be found at:
 
 ![](https://komarev.com/ghpvc/?username=ukv1729)
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ukveteran&theme=github)
