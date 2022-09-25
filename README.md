@@ -31,5 +31,4 @@ I can also be found at:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ukv1729&theme=github)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ukv1729)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ukv1729&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
