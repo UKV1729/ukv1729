@@ -4,8 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist;Mathematical%20Physicist&font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-![UKV1729](https://user-images.githubusercontent.com/81862443/193224753-da0f0d75-6797-43eb-b2cd-ddc037ee777c.png)
-
 
 ![](https://github.com/UKVeteran/ukveteran/blob/main/octocats.gif)
 
